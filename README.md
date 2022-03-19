@@ -22,10 +22,7 @@ pip install data-processing
 
 ## Usage
 
-'''python
-from package.example import file1_name
-file1_name.my_function()'''
-
+Used to Load datasets Split in X and y values, later split in Train and test sets and bring the data trainned and predicted.
 
 ## Author
 Thomas
